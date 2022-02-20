@@ -20,10 +20,10 @@ title                    : "Pressed for Time"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Francis"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A place for my thoughts."
+url                      : https://bookishfrancis.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "BookishFrancis/bookishfrancis.github.io"
+repository               : BookishFrancis/bookishfrancis.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "@BookishFrancis"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -103,10 +103,10 @@ analytics:
 # Site Author
 author:
   name             : "Francis"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
+  avatar           : "/assets/images/francis.jpg"
+  bio              :
   location         : "Austin, TX"
-  email            : "francis.b.mitchell@gmail.com
+  email            : "francis.b.mitchell@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -286,5 +286,6 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
+
