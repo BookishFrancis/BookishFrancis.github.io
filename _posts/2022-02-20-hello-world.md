@@ -1,4 +1,0 @@
----
----
-Another test
-Hello world!

@@ -1,0 +1,42 @@
+I"�<p>I asked myself this question for much of today. What am I hoping to get out of this project? What even <em>is</em> this project? A part of me is certain that this will fade into the ether within a week or two, the only evidence of its brief existence a few markdown files in a folder on my hard drive.</p>
+
+<p>In creating this page, I was largely inspired by the <a href="https://pluralistic.net/2022/02/19/now-we-are-two/">February 19th, 2022 post</a> by Cory Doctorow on his blog “Pluralistic.” I have been aware of Doctorow for a while, in a vague “I follow him on twitter” sense. The thread that made me follow him was on <a href="https://twitter.com/doctorow/status/1331633102762831873?lang=en">“The Shitty Tech Adoption Curve”</a> wherein he describes how oppressive technology is first utilized on marginalized people, and then slowly is normalized until it has become pervasive in all levels of society. The core of his thread was the way in which the pandemic was normalizing using metrics to track the “productivity” of workers at home, something (at the time) newly added to products like Microsoft 365. The thread was interesting and timely.</p>
+
+<p>More importantly, though, it was a rabbit hole. Throughout his thread, Doctorow links to posts that elaborate and expand on the point he was discussing: posts written on “Pluralistic,” other twitter threads, a wikipedia article (on <a href="https://t.co/iHfCCpNSW1">Goodhart’s Law</a>), and even a short story he had written. Every link lead to even more links.</p>
+
+<p>In Doctorow’s <a href="https://pluralistic.net/2022/02/19/now-we-are-two/">February 19th, 2022 post</a>, he celebrates the second anniversary of “Pluralistic.” Two years and 550 posts, an impressive feat by any metric. Part of the success of this endeavor, as Doctorow tells it, is what he calls <a href="https://doctorow.medium.com/the-memex-method-238c71f2fb46">“The Memex Method”</a>–a phrase that instantly made me perk up.</p>
+
+<p>The memex was a hypothetical device first described in 1945 by Vannevar Bush, the head of the U.S. Office of Scientific Research and Development. He describes this device in an article titled <a href="https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">“As We May Think,”</a> which I consider to be required reading for anyone who uses the internet.</p>
+
+<p>Bush starts by outlining a problem that may seem familiar in the age of Social Media:</p>
+
+<blockquote>
+  <p>There is a growing mountain of research. But there is increased evidence that we are being bogged down today…. The investigator is staggered by the findings and conclusions of thousands of other workers–conclusions which he cannot find time to grasp. much less remember, as they appear.</p>
+</blockquote>
+
+<p>More than just a problem of sifting through ever increasing amounts of information, Bush points to the outdated toolset that researchers had to work with. “Professionally our methods of transmitting and reviewing the results of research are generations old and by now are totally inadequate for their purpose.”</p>
+
+<p>Bush’s answer to this problem was to project the technology of 1945 into the future in order to come up with a revolutionary new way to handle the ever increasing influx of new information. Bush predicts that advancements in photography will allow for the quick production of photos onto microfilm. Indeed, film will become thinner so that the <em>Encyclopedia Britannica</em> can be stored in a matchbox, and 1,000,000 volumes can fit at the end of a desk. This ability to store massive amounts of information into small spaces enables Bush’s Memex:</p>
+
+<blockquote>
+  <p>A memex is a device in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.</p>
+</blockquote>
+
+<p>This new device is more than just a method for storing and retrieving information. The real benefit of this advice is what Bush calls <em>associative indexing</em>. “This is the essential feature of the memex. The process of tying two items together…” The essence of this process is that a user can create their own breadcrumb trail through whatever information they have stored on their memex. These personal trains-of-thought can be pulled up at will, added to, branched off from as many times as is necessary.</p>
+
+<blockquote>
+  <p>Thus he builds a trail of his interest through the maze of materials available to him. And his trails do not fade…. Tapping a few keys projects the head of the trail. A lever runs through it at will, stopping at interesting items, going off on side excursions. It is an interesting trail, pertinent to the discussion. So he… photographs the whole trail out, and passes it to his friend for insertion in his own memex, there linked into the more general trail.</p>
+</blockquote>
+
+<p>Here, we see that the associative trails build using your own personal memex can be further shared with others so that they may add onto their trails. Indeed, Bush pushes this further, imagining this as an entirely new way to build and share knowledge.</p>
+
+<blockquote>
+  <p>The physician, puzzled by a patient’s reaction, strikes the trail established in studying an early similar case, and runs rapidly through analogous case histories, with side references to the classics for the pertinent anatomy and histology. The chemist, struggling with the synthesis of an organic compound, has all the chemical literature before him in his laboratory, with trails following the analogies of compounds, and side trails to their physical and chemical behavior.</p>
+</blockquote>
+
+<p>Basically, Bush invented the internet in the 40’s.</p>
+
+<p>Except, I don’t believe we’ve manage to fully realize his vision. The tools are all there, there is no part of the memex that we cannot accomplish using modern computing, but we just aren’t quite there. It is too easy to fall back into using the analogies given to us by a more analogue era. Documents and notes are stored in folders on your desktop. There is no associative index, no trail of thoughts to follow beyond what you could reasonably already accomplish with a pen and a notebook.</p>
+
+<p>I think that this is what struck me when I read that Doctorow views his blogging as a memex. He even puts it into terms that my chemist brain can really latch onto: nucleation in a supersaturated solution. The internet is this giant noisy soup of information. Whenever an article comes along that seems like it is a fragment of something more significant, Doctorow adds it to his blog with a description of what he thinks it brings to the broader picture. Over time, these individual thoughts can begin to grow into something more substantial.</p>
+:ET

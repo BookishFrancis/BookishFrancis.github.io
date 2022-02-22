@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-21T21:09:07-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pressed for Time</title><subtitle>A place for my thoughts.</subtitle><author><name>Francis</name><email>francis.b.mitchell@gmail.com</email></author><entry><title type="html">What Am I Doing Here?</title><link href="http://localhost:4000/What-am-I-Doing-Here/" rel="alternate" type="text/html" title="What Am I Doing Here?" /><published>2022-02-21T00:00:00-06:00</published><updated>2022-02-21T00:00:00-06:00</updated><id>http://localhost:4000/What-am-I-Doing-Here</id><content type="html" xml:base="http://localhost:4000/What-am-I-Doing-Here/"><![CDATA[<p>I asked myself this question for much of today. What am I hoping to get out of this project? What even <em>is</em> this project? A part of me is certain that this will fade into the ether within a week or two, the only evidence of its brief existence a few markdown files in a folder on my hard drive.</p>
+I"�<p>I asked myself this question for much of today. What am I hoping to get out of this project? What even <em>is</em> this project? A part of me is certain that this will fade into the ether within a week or two, the only evidence of its brief existence a few markdown files in a folder on my hard drive.</p>
 
 <p>In creating this site, I was largely inspired by Cory Doctorow and his blog “Pluralistic.” I have been aware of Doctorow for a while in a vague “I follow him on twitter” sense. The thread that garnered my follow was on <a href="https://twitter.com/doctorow/status/1331633102762831873?lang=en">“The Shitty Tech Adoption Curve”</a> wherein he describes how oppressive technology is first utilized on marginalized people, and then slowly is normalized until it has become pervasive in all levels of society. The core of this thread is the way in which the pandemic is normalizing using metrics to track the “productivity” of workers at home.</p>
 
@@ -22,13 +22,19 @@
   <p>A memex is a device in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.</p>
 </blockquote>
 
-<p>This new device was more than just a method for storing and retrieving information. The real benefit of this device was what Bush called <em>associative indexing</em>. The essence of this process is that a user can create their own breadcrumb trail through whatever information they have stored on their memex. These personal trains-of-thought can be pulled up at will, added to, branched off from as many times as is necessary.</p>
+<p>This new device was more than just a method for storing and retrieving information. The real benefit of this device was what Bush called <em>associative indexing</em>.</p>
+
+<blockquote>
+  <p>This is the essential feature of the memex. The process of tying two items together…</p>
+</blockquote>
+
+<p>The essence of this process is that a user can create their own breadcrumb trail through whatever information they have stored on their memex. These personal trains-of-thought can be pulled up at will, added to, branched off from as many times as is necessary.</p>
 
 <blockquote>
   <p>Thus he builds a trail of his interest through the maze of materials available to him. And his trails do not fade…. Tapping a few keys projects the head of the trail. A lever runs through it at will, stopping at interesting items, going off on side excursions. It is an interesting trail, pertinent to the discussion. So he… photographs the whole trail out, and passes it to his friend for insertion in his own memex, there linked into the more general trail.</p>
 </blockquote>
 
-<p>Here, we see that the associative trails built using a personal memex can be further shared with others so that they may add onto their trails. Indeed, Bush pushes this further, imagining this as an entirely new way to build and share knowledge.</p>
+<p>Here, we see that the associative trails build using your own personal memex can be further shared with others so that they may add onto their trails. Indeed, Bush pushes this further, imagining this as an entirely new way to build and share knowledge.</p>
 
 <blockquote>
   <p>The physician, puzzled by a patient’s reaction, strikes the trail established in studying an early similar case, and runs rapidly through analogous case histories, with side references to the classics for the pertinent anatomy and histology. The chemist, struggling with the synthesis of an organic compound, has all the chemical literature before him in his laboratory, with trails following the analogies of compounds, and side trails to their physical and chemical behavior.</p>
@@ -36,12 +42,15 @@
 
 <p>Basically, Bush invented the internet in the 40’s.</p>
 
-<p>Except, I don’t believe we’ve managed to fully realize his vision. The tools are all avaiable, there is no part of the memex that we cannot accomplish using modern computing, but we just aren’t quite there. It is too easy to fall back into using the analogies given to us by a more analogue era. Documents and notes are stored in folders on your desktop. There is no associative index, no trail of thoughts to follow beyond what you could reasonably already accomplish with a pen and a notebook.</p>
+<p>Except, I don’t believe we’ve manage to fully realize his vision. The tools are all there, there is no part of the memex that we cannot accomplish using modern computing, but we just aren’t quite there. It is too easy to fall back into using the analogies given to us by a more analogue era. Documents and notes are stored in folders on your desktop. There is no associative index, no trail of thoughts to follow beyond what you could reasonably already accomplish with a pen and a notebook.</p>
 
-<p>I think that this is what struck me when I read that Doctorow views his blogging as a memex. He even puts it into terms that my chemist brain can understand: <a href="https://doctorow.medium.com/the-memex-method-238c71f2fb46">nucleation in a supersaturated solution</a>. The internet is this giant noisy soup of information. Whenever an article comes along that seems like it is a fragment of something more significant, Doctorow adds it to his blog with a description of what he thinks it brings to the broader picture. Over time, these individual thoughts can begin to grow into something more substantial, linking back to things that he has written in the past, referencing the work of others, creating a branching trail that traces how his thinking on a subject evolved over time. Building onto his blog, then, became an act that enriched his time spent on the internet.</p>
+<p>I think that this is what struck me when I read that Doctorow views his blogging as a memex. He even puts it into terms that my chemist brain can really latch onto: <a href="https://doctorow.medium.com/the-memex-method-238c71f2fb46">nucleation in a supersaturated solution</a>. The internet is this giant noisy soup of information. Whenever an article comes along that seems like it is a fragment of something more significant, Doctorow adds it to his blog with a description of what he thinks it brings to the broader picture. Over time, these individual thoughts can begin to grow into something more substantial.</p>
+
+<p>Finally, we arrive at the core of why I’m doing this.</p>
 
 <blockquote>
   <p>The availability of a deep, digital, searchable, published and public archive of my thoughts turns habits that would otherwise be time-wasters–or even harmful–into something valuable.</p>
 </blockquote>
 
-<p>This is what I want. Every day, I get onto the internet. Often, I find fascinating rabbit holes. More often, I leave feeling worse off for having spent my day sifting through the soup with nothing to show for it. Maybe this is what I can show for it.</p>]]></content><author><name>Francis</name><email>francis.b.mitchell@gmail.com</email></author><summary type="html"><![CDATA[I asked myself this question for much of today. What am I hoping to get out of this project? What even is this project? A part of me is certain that this will fade into the ether within a week or two, the only evidence of its brief existence a few markdown files in a folder on my hard drive.]]></summary></entry></feed>
+<p>This is what I want. Every day, I get onto the internet. Often, I find fascinating rabbit holes. More often, I leave feeling worse off for having spent my day sifting through the soup with nothing to show for it. Maybe this is what I can show for it.</p>
+:ET
